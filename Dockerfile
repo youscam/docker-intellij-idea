@@ -1,6 +1,6 @@
 FROM adoptopenjdk/openjdk8
 
-LABEL maintainer "Viktor Adam <rycus86@gmail.com>"
+LABEL maintainer "Azzouzi Kamal <youscam@outloook.com>"
 
 ARG IDEA_VERSION=2020.2
 ARG IDEA_BUILD=2020.2.2
